@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 4rem;
+  background-color: rgb(255, 191, 191);
+}
+.navbar {
+  border-radius: 10px;
+}
+#Project {
+  background-color: rgb(255, 191, 191);
+}
+
+.footer {
+  background-color: #8b0000;
+  color: white;
+  height: 100%;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer a:hover {
+  color: blue;
+}
